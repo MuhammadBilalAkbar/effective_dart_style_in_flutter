@@ -4,7 +4,7 @@
 [Style](#Style)
 - [Identifiers](#Identifiers)
 - [Ordering](#Ordering)
-- [Formatting](#Formatting)
+- [Formatting](#Formatting)   
 [Usage](#Usage   
 - [Libraries](#Libraries)
 - [Null](#Null)
