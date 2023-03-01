@@ -2,16 +2,16 @@
 
 ##### Table of Contents
 [Style](#Style)   
-   - [Identifiers](#Identifiers)   
-   - [Ordering](#Ordering)   
-   - [Formatting](#Formatting)   
+ - [Identifiers](#Identifiers)   
+ - [Ordering](#Ordering)   
+ - [Formatting](#Formatting)   
 [Usage](#Usage)   
-   - [Libraries](#Libraries)   
-   - [Null](#Null)   
-   - [Strings](#Strings)   
-   - [Functions](#Functions)   
-   - [Variables](#Variables)   
-   - [Constructors](#Constructors)   
+ - [Libraries](#Libraries)   
+ - [Null](#Null)   
+ - [Strings](#Strings)   
+ - [Functions](#Functions)   
+ - [Variables](#Variables)   
+ - [Constructors](#Constructors)   
 
 
 # Style
