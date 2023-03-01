@@ -1,17 +1,17 @@
 # Effective Dart Style in Flutter
 
 ##### Table of Contents
-1. [Style](#Style)
-- [Identifiers](#Identifiers)
-- [Ordering](#Ordering)
-- [Formatting](#Formatting)   
-2. [Usage](#Usage)
-- [Libraries](#Libraries)
-- [Null](#Null)
-- [Strings](#Strings)
-- [Functions](#Functions)
-- [Variables](#Variables)
-- [Constructors](#Constructors)
+[Style](#Style)   
+   - [Identifiers](#Identifiers)   
+   - [Ordering](#Ordering)   
+   - [Formatting](#Formatting)   
+[Usage](#Usage)   
+   - [Libraries](#Libraries)   
+   - [Null](#Null)   
+   - [Strings](#Strings)   
+   - [Functions](#Functions)   
+   - [Variables](#Variables)   
+   - [Constructors](#Constructors)   
 
 
 # Style
