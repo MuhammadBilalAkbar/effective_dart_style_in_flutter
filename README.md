@@ -5,7 +5,7 @@
 - [Identifiers](#Identifiers)
 - [Ordering](#Ordering)
 - [Formatting](#Formatting)   
-[Usage](#Usage)   
+<br/>[Usage](#Usage)
 - [Libraries](#Libraries)
 - [Null](#Null)
 - [Strings](#Strings)
