@@ -1,8 +1,13 @@
 # Effective Dart Style in Flutter
 
+##### Table of Contents
+[Style](#Style)
+- [Identifiers](#Identifiers)
+- [Ordering](#Ordering)
+- [Formatting](#Formatting)
 
 
-## Style
+# Style
 A surprisingly important part of good code is good style. Consistent naming, ordering, and formatting helps code that is the same look the same. It takes advantage of the powerful pattern-matching hardware most of us have in our ocular systems. If we use a consistent style across the entire Dart ecosystem, it makes it easier for all of us to learn from and contribute to each others’ code.
 
 ## Identifiers
