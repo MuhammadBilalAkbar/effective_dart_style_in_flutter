@@ -17,6 +17,7 @@
    - [Constructors](#Constructor)
    - [Members](#Member)
    - [Equality](#Equality)
+4. [Note](#Note)
 
 
 # Style
